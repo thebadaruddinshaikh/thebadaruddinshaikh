@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Badaruddin's github stats](https://github-readme-stats.vercel.app/api?username=thebadaruddinshaikh&count_private=true&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
+
