@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Badaruddin's github stats](https://github-readme-stats.vercel.app/api?username=thebadaruddinshaikh&count_private=false&show_icons=true)
+![Badaruddin's github stats](https://github-readme-stats.vercel.app/api?username=thebadaruddinshaikh&count_private=false&show_icons=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebadaruddinshaikh)](https://github.com/thebadaruddinshaikh/github-readme-stats)
 <!--
 **thebadaruddinshaikh/thebadaruddinshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
