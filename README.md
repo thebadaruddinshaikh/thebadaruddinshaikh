@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Badaruddin's github stats](https://github-readme-stats.vercel.app/api?username=thebadaruddinshaikh&count_private=false&show_icons=true)<br>
+![Badaruddin's github stats](https://github-readme-stats.vercel.app/api?username=thebadaruddinshaikh&count_private=false&theme=radical&show_icons=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebadaruddinshaikh&layout=compact)](https://github.com/thebadaruddinshaikh/github-readme-stats)<br>
 
 <!--
