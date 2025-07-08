@@ -1,6 +1,11 @@
 ### Hi there 👋
-![Badaruddin's github stats](https://github-readme-stats.vercel.app/api?username=thebadaruddinshaikh&count_private=True&theme=tokyonight&show_icons=true)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebadaruddinshaikh&layout=compact&theme=tokyonight)](https://github.com/thebadaruddinshaikh/github-readme-stats)<br>
+
+I'm Badaruddin Shaikh, 
+
+Tools and Technologies that I'm currently working with - Node.js, Express.js, MongoDB, React.js, Next.js, Docker, Bash, Kubernetes, AWS, Go, Rust, Java, C/C++, PyTorch, AWS, Self-hosting (super invested currently). 
+
+
+
 
 <!--
 **thebadaruddinshaikh/thebadaruddinshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
